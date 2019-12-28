@@ -19,17 +19,29 @@ untuk berkontribusi dalam pembuatan filter Instagram.
 
 {% include figure image_path="/assets/images/konten/sparkar/sparkar.png" alt="this is a placeholder image" caption="Sumber: sparkar.facebook.com" %}
 ---
-title: "Langkah - Langkah"
+**File Yang Perlu Disiapkan**
+1. [Base LUT][baselutlink]
+2. [Fast Color LUT][fclink]
+3. [VSCO Film Preset][vscolink]
 ---
 **1.Download dan Install SparkAR**
 
-Kalian bisa mendownloadnya di halaman resmi [SparkAR][sparkar] 
+Kalian bisa mendownloadnya di halaman resmi [SparkAR][sparkar] secara gratis.
+
+**2.Install SparkAR**
+Setelah selesai mendownload kalian bisa langsung menginstall saja. Karna disini saya sudah menginstall saya anggap
+kalian juga sudah selesai menginstall software tersebut.
+
+**3.Buka SparkAR**
+- Buka SparkAR dan tambahkan sebuah canvas pada Add Object.
+{% include figure image_path="/assets/images/konten/sparkar/addobject.png" alt="this is a placeholder image" %}
+-
 
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [sparkar]: https://sparkar.facebook.com/ar-studio/download/
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[baselutlink]: https://drive.google.com/file/d/1fqnLL-tJ7RVbn_zLsGzq1b3Y66j_GfjV/view
+[fclink]:   https://drive.google.com/file/d/1WWX3CjKxr250ds335lfAtNOoVN5D-Sa_/view
+[vscolink]: https://talk.jekyllrb.com/
