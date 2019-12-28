@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Somedayfat"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Profile.png"
   bio    : "It's all here"
   links:
     - label: "somedayfat.github.io"
