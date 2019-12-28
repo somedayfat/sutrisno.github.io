@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Somedayfat"
   avatar : "/assets/images/Profile.png"
-  bio    : "It's all here, Can't describe myself but i'm IT student and i love Photography"
+  bio    : "See About :)"
   links:
     - label: "somedayfat.github.io"
       icon: "fas fa-fw fa-link"
