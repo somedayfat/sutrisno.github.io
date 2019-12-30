@@ -44,4 +44,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [sparkar]: https://sparkar.facebook.com/ar-studio/download/
 [baselutlink]: https://drive.google.com/file/d/1fqnLL-tJ7RVbn_zLsGzq1b3Y66j_GfjV/view
 [fclink]:   https://drive.google.com/file/d/1WWX3CjKxr250ds335lfAtNOoVN5D-Sa_/view
-[vscolink]: https://talk.jekyllrb.com/
+[vscolink]: https://www.mediafire.com/file/j8a01cmiskr1pdo/Vsco_Film_LUTs.zip/file
