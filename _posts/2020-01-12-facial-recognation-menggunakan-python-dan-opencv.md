@@ -69,6 +69,7 @@ cv2.destroyAllWindows()
 
 Setelah sebelumnya kita baru mencoba untuk menampilkan kamera menggunakan webcam. Selanjutnya
 kita akan mendeteksi wajah dengan HCC, Tambahkan kode berikut:
+
 ```ruby
 import cv2
 import numpy as np
@@ -98,8 +99,8 @@ cv2.destroyAllWindows()
 ```
 Algoritma Haar Cascade sendiri merupakan sebuah algoritma deteksi obyek yang menggunakan pendekatan berbasis
 Cascade. Dimana algoritma ini sendiri dilatih menggunakan banyak sekali gambar positif & negatif.
-4.Load Fungsi CNN Face Expression menggunakan Library keras
 
+4.Load Fungsi CNN Face Expression menggunakan Library keras
 ```ruby
 import cv2
 import numpy as np
@@ -178,7 +179,8 @@ while(True):
 cap.release()
 cv2.destroyAllWindows()
 ```
-{% include figure image_path="/assets/images/konten/web.png" alt="this is a placeholder image" caption="Hasil Dari Facial Recognation " %}
+{% include figure image_path="/assets/images/konten/web.png" alt="this is a placeholder image" caption="Hasil Dari Facial Recognation"%}
+
 **Selesai**
 Untuk Datasetnya sendiri anda bisa mendownloadnya [DISINI][dataset]
 
