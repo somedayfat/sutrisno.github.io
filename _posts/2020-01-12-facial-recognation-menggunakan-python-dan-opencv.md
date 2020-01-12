@@ -179,7 +179,7 @@ while(True):
 cap.release()
 cv2.destroyAllWindows()
 ```
-{% include figure image_path="/assets/images/konten/facial.png" alt="this is a placeholder image" caption="Hasil Dari Facial Recognation"%}
+{% include figure image_path="/assets/images/konten/facial/facial.png" alt="this is a placeholder image" caption="Hasil Facial Recognation HCC" %}
 
 **Selesai**
 
