@@ -182,6 +182,7 @@ cv2.destroyAllWindows()
 {% include figure image_path="/assets/images/konten/facial.png" alt="this is a placeholder image" caption="Hasil Dari Facial Recognation"%}
 
 **Selesai**
+
 Untuk Datasetnya sendiri anda bisa mendownloadnya [DISINI][dataset]
 
 
