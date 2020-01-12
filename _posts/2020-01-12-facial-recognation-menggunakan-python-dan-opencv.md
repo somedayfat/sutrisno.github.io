@@ -98,7 +98,8 @@ cv2.destroyAllWindows()
 ```
 Algoritma Haar Cascade sendiri merupakan sebuah algoritma deteksi obyek yang menggunakan pendekatan berbasis
 Cascade. Dimana algoritma ini sendiri dilatih menggunakan banyak sekali gambar positif & negatif.
-4. Load Fungsi CNN Face Expression menggunakan Library keras
+4.Load Fungsi CNN Face Expression menggunakan Library keras
+
 ```ruby
 import cv2
 import numpy as np
@@ -129,7 +130,7 @@ while(True):
 cap.release()
 cv2.destroyAllWindows()
 ```
-5. Memasukan hasil deteksi wajah ke CNN Face Exspression
+5.Memasukan hasil deteksi wajah ke CNN Face Exspression
 
 ```ruby
 mport cv2
