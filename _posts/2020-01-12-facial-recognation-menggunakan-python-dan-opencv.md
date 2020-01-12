@@ -42,9 +42,9 @@ import numpy as np
 from keras_preprocessing import image
 from tensorflow.keras.models import model_from_json
 ```
-<h4> Numpy </h4> Akan digunakan untuk proses operasi vektor dan matrix dengan mengolah array dan array multidimensi.
-<h4>cv2(OpenCV)</h4> Akan kita gunakan untuk mengolah gambar dan video yang nantinya akan digunakan untuk mengolah informasi pada media tersebut.
-<h4>Keras & TensorFlow</h4> Library yang akan digunakan dalam pembelajaran Machine Learning ini sendiri.
+<h3> Numpy </h3> Akan digunakan untuk proses operasi vektor dan matrix dengan mengolah array dan array multidimensi.
+<h3>cv2(OpenCV)</h3> Akan kita gunakan untuk mengolah gambar dan video yang nantinya akan digunakan untuk mengolah informasi pada media tersebut.
+<h3>Keras & TensorFlow</h3> Library yang akan digunakan dalam pembelajaran Machine Learning ini sendiri.
 
 2.Capture video
 
