@@ -185,9 +185,8 @@ cv2.destroyAllWindows()
 ```
 {% include figure image_path="/assets/images/konten/facial/facial.png" alt="this is a placeholder image" caption="Hasil Facial Recognation HCC" %}
 
-**Selesai**
+**Selesai, Semoga bermanfaat :)**
 
-Untuk Datasetnya sendiri anda bisa mendownloadnya [DISINI][dataset]
 
 
 [brkt]:http://tinyurl.com/s46vthr
