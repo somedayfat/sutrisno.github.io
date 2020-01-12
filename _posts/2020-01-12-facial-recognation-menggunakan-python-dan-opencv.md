@@ -20,20 +20,24 @@ Untuk kali ini saya akan menuliskan blog tentang facial recognation. Menggunakan
 - Numpy
 - OpenCV
 - TensorFlow
-<h4>Dataset</h4>
+<h3>Dataset</h3>
 - facial_expression_model_sructure.json
 - facial_expression_model_weight.h5
 - haarcascade_frontalface_default.xml
+Bisa didownload [Disini][dataset]
 
-Untuk yang sudah memempunyai atau sudah mendownload Python bisa langsung mendownload 3 libary tersebut. Dan Untuk
-Dataset bisa kalian download melalui link diatas.
+Kemudian taruh dataset tersebut bersamaan dengan program yang akan kita buat.
+{% include figure image_path="/assets/images/konten/facial/struktur.png" alt="this is a placeholder image" %}
+
+Bagi yang sudah memempunyai atau sudah mendownload Python bisa langsung mendownload 3 libary tersebut.
 
 Untuk melakukan deteksi wajah sendiri kita akan menggunakan metode haar cascade classifier, metode tersebut bisa kalian pelajari
 seara singkat di link [berikut][brkt]. Haar cascade sendiri membutuhkan data training untuk dijadikan sebuah acuan proses classifier dan disini kita akan menggunakan  'haarcascade_frontalface_default.xml', Selain itu kita juga membutuhkan sebuah mode atau algoritma CNN (Convolutional Neural Netwok) untuk mendeteksi atau memprediksi emosi dari wajah yang akan kita klasifikasikan, dan disini kita akan menggunakan 'facial_expression_model_sructure.json'. dan library Keras yang ada pada TensorFlow sendiri akan digunakan untuk membuka model atau algoritma CNN face expression.
 
 **Oke Langsung Saja Kita Mulai**
 
-Buka PyCharm anda dan ikuti step berikut ini.
+Buka PyCharm anda dan dan buat file dengan nama latihan.py
+kemudian tuliskan kode berikut ini.
 
 1.Inisasi library
 ```ruby
