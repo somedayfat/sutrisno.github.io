@@ -185,7 +185,7 @@ cv2.destroyAllWindows()
 ```
 {% include figure image_path="/assets/images/konten/facial/facial.png" alt="this is a placeholder image" caption="Hasil Facial Recognation HCC" %}
 
-**Selesai, Semoga bermanfaat :)**
+**Selesai, Semoga bermanfaat , Terimakasih:)**
 
 
 
